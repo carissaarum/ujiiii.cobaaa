@@ -1,0 +1,19 @@
+/* Place your CSS styles in this file */
+body {background-color: beige;
+border: 2px solid chocolate;
+border-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+
+}
+
+ul {list-style-type: none;}
+li {display: inline;
+    text-align: left;
+
+}
+
