@@ -5,10 +5,7 @@ body{border: 10px solid chocolate;}
 body{border-bottom: 20px;}
 
 h1 {text-align: center;}
-    {font-family: "Source Sans Pro", sans-serif;}
-    {font-weight: normal;}
+  h1  {font-family: "Source Sans Pro", sans-serif;}
+  h1  {font-weight: normal;}
 
-ul {list-style-type: none;}
-li {display: inline;}
-  li{text-align: left;}
 
